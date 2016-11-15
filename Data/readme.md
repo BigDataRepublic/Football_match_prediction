@@ -47,3 +47,6 @@ The features can be subdivided into 6 categories. Below is the column list for e
     - Last letter indicates team: H(ome), A(way)
   6. Closing odds (last odds before match starts)
     - Last letter indicates team or draw: H(ome), A(way), D(draw)
+
+### More Data
+More data can be downloaded from: http://www.football-data.co.uk/data.php. Only thing we've added is the season directory structure
