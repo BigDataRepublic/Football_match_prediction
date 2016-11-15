@@ -1,4 +1,4 @@
-Files are stored in directories per season in the data directory. Each competition has its own abbreviation. Check below for these abreviations. For the explanation of the features, please read the notex.txt in the background_info directory
+Files are stored in directories per season in the data directory. Each competition has its own abbreviation. Check below for these abreviations. For the explanation of the features, please read the feature_explanation.txt in the data directory
 
 ## Abreviations for competitions files:
 - Belgium
